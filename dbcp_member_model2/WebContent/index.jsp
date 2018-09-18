@@ -59,6 +59,7 @@
 	<button type="button" id="pwdcheck">정보수정</button>
 	<button type="button" id="leave">회원탈퇴</button>
 </c:if>
+	<a href="www.naver.com">네이버</a>
 </body>
 </html>
 
